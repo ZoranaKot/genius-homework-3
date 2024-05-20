@@ -513,7 +513,7 @@ a {
 .sign-up-container {
   flex-basis: 422px;
   background-color: var(--color-brand-dark);
-  background-image: url("/images/background-site.png");
+  background-image: url("../images/background-site.png");
   border-radius: 32px;
   text-align: center;
   padding: 48px 56px 16px 56px;
@@ -529,7 +529,7 @@ a {
   margin: 0 auto;
   max-width: 1440px;
   background-color: var(--color-brand-dark);
-  background-image: url("/images/background-footer.png");
+  background-image: url("../images/background-footer.png");
   position: relative;
 }
 .footer::after {
@@ -540,7 +540,7 @@ a {
   right: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/images/pexels-photo-8101532-PhotoRoom1.png");
+  background-image: url("../images/pexels-photo-8101532-PhotoRoom1.png");
   content: "";
 }
 .footer-container {
@@ -627,7 +627,7 @@ a {
   height: 100%;
   max-height: 760px;
   background-color: var(--color-brand-dark);
-  background-image: url("/images/background-window.png");
+  background-image: url("../images/background-window.png");
   border-radius: 32px;
   overflow-y: auto;
 }
