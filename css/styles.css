@@ -208,7 +208,7 @@ a {
       rgba(255, 255, 255, 0.193204) 58.65%,
       rgba(255, 255, 255, 0) 72.78%
     ),
-    url("/images/header-image.png");
+    url("../images/header-image.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 687px;
@@ -385,7 +385,7 @@ a {
 
 /*Why-we-section*/
 .background {
-  background-image: url("/images/background.png");
+  background-image: url("../images/background.png");
   background-repeat: no-repeat;
   background-position: center top;
   width: 100%;
